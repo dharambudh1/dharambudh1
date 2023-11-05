@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](https://github-trophies.vercel.app/?username=yourusername)
+![](https://github-trophies.vercel.app/?username=dharambudh1)
