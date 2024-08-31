@@ -5,6 +5,6 @@ Hello! 👋🏻 I'm Dharam Budh, a Flutter developer with nearly 4 years of expe
 `Flutter` `Dart` `GetX` `RxDart` `JSON` `YAML` `Kotlin` `Swift` `Gradle` `Cocoapods` `SQLite` `Hive` `SharedPreferences` `Google Cloud` `Amazon Web Services` `Firebase` `Git` `GitHub` `GitLab` `Bitbucket` `GitHub Actions` `GitHub Pages` `Visual Studio Code` `Android Studio` `Xcode` `Postman` `Swagger` `Figma` `Adobe XD` etc.
 
 ### 🌟 What I Bring:
-- A solid foundation in Flutter development with 4 years of experience across Android, iOS, and Web platforms.
+- A solid foundation in Flutter development with nearly 4 years of experience across Android, iOS, and Web platforms.
 - Proven expertise from working with 3 startups and a diverse tech stack including Dart, GetX, and cloud services.
 - A passion for crafting efficient, user-friendly applications and staying on the cutting edge of technology.
