@@ -5,7 +5,7 @@ A Flutter developer with nearly 4 years of experience in building Android, iOS, 
 
 You can find me on: [Stack Overflow][1], 🗄️ [LinkedIn][2] & 🤳🏻 [Instagram][3].
 
-  [1]: stackoverflow.com/users/5451849/dharam-budh
+  [1]: https://stackoverflow.com/users/5451849/dharam-budh
   [2]: https://www.linkedin.com/in/dharam-budh
   [3]: https://www.instagram.com/mr_untamable
 
