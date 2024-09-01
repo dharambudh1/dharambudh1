@@ -1,9 +1,9 @@
-### 📱 Cross-Platform Application Developer | Flutter
+### 🧑🏻‍💻 Cross-Platform Application Developer | Flutter
 Hello! 👋🏻 I'm Dharam Budh, 
 <br />
 A Flutter developer with nearly 4 years of experience in building Android, iOS, and Web applications. Having worked with 3 startups, I've honed my skills in a broad range of technologies including Flutter, Dart, and various cloud platforms. I’m passionate about crafting high-quality, efficient apps and always eager to tackle new challenges in the tech world.
 
-You can find me on: 🧑🏻‍💻 [Stack Overflow][1], 🗄️ [LinkedIn][2] & 🤳🏻 [Instagram][3].
+You can find me on: [Stack Overflow][1], 🗄️ [LinkedIn][2] & 🤳🏻 [Instagram][3].
 
   [1]: stackoverflow.com/users/5451849/dharam-budh
   [2]: https://www.linkedin.com/in/dharam-budh
